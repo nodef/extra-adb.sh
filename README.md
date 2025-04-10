@@ -236,3 +236,4 @@ $ eadb wait-for-fastboot
 
 
 [![bashf](https://i.imgur.com/7dOgljF.jpg)](https://bashf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-adb.sh)
